@@ -19,7 +19,7 @@ To use the cloth simulation, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/cloth-simulation.git
+git clone https://github.com/firdodev/Cloth-Simulation.git
 ```
 2. Open the index.html file in a web browser.
 
